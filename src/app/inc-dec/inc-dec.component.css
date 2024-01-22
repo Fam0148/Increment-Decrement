@@ -1,0 +1,22 @@
+p
+{
+    text-align: center;
+    font-size: 42px;
+    font-family: monospace;
+}
+
+button
+{
+    padding: 20px;
+    background-color: rgb(50, 50, 50);
+    border: none;
+    border-radius: 5px;
+    color:whitesmoke;
+}
+
+#click
+{
+    display:flex;
+    justify-content: center;
+    column-gap: 20px;
+}
